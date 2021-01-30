@@ -36,3 +36,4 @@ I'm Paul, 18 year old student from <a href="https://en.wikipedia.org/wiki/Kharki
     <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api?username=paxanddos&show_icons=true&include_all_commits=true&theme=buefy" />
     <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api/top-langs/?username=paxanddos&layout=compact&theme=buefy" />
 </p>
+[![Spotify](https://novatorem-sandy-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/PAXANDDOS)
