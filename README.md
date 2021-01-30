@@ -41,6 +41,6 @@ I'm Paul, 18 year old student from <a href="https://en.wikipedia.org/wiki/Kharki
 </p>
 <p align="center">
     <a href="https://spotify-natemoo.vercel.app/now-playing?open">
-    <img src="https://spotify-natemoo.vercel.app/now-playing" width="300" alt="Now Playing">`
+    <img src="https://spotify-natemoo.vercel.app/now-playing" width="300" alt="Now Playing">
     </a>
 </p>
