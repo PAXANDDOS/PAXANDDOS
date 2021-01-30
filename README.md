@@ -1,4 +1,4 @@
-<h3 align="center">Hey, nice to see you!</h3>
+<h3 align="center">Hey, nice to see you!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/></h3>
 <p align="center">Welcome to my GitHub page!<br>
 I'm Paul, 18 year old student from <a href="https://en.wikipedia.org/wiki/Kharkiv" target="_blank"><img src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/c61bd590fc67ecbafc2b30313790de34769c33ee/Profile/countries/svg/ukraine.svg" width="15"/></a><b> Kharkiv, Ukraine</b>.</p>
 <p align="center">
