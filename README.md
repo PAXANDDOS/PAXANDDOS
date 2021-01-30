@@ -40,7 +40,7 @@ I'm Paul, 18 year old student from <a href="https://en.wikipedia.org/wiki/Kharki
     <a href="https://open.spotify.com/user/PAXANDDOS"><img src="https://novatorem-paxanddos.vercel.app/api/spotify" alt="Now listening to" width="350" /></a>
 </p> -->
 <p align="center">
-    <a href="https://spotify-natemoo.vercel.app/now-playing?open">
+    <a href="https://open.spotify.com/user/PAXANDDOS">
     <img src="https://spotify-natemoo.vercel.app/now-playing" width="300" alt="Now Playing">
     </a>
 </p>
