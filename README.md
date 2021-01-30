@@ -35,5 +35,4 @@ I'm Paul, 18 year old student from <a href="https://en.wikipedia.org/wiki/Ukrain
 <p align="center">
     <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api?username=paxanddos&show_icons=true&include_all_commits=true&theme=buefy" />
     <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api/top-langs/?username=paxanddos&layout=compact&theme=buefy" />
-    <a href="https://github.com/PAXANDDOS/PokeChat" target="_blank"><img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api/pin/?username=paxanddos&repo=PokeChat&theme=buefy" /></a>
 </p>
