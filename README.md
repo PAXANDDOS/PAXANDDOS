@@ -1,6 +1,6 @@
 <h3 align="center">Hey, nice to see you!</h3>
 <p align="center">Welcome to my GitHub page!<br>
-I'm Paul, 18 year old student from <a href="https://en.wikipedia.org/wiki/Ukraine" target="_blank"><img src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/c61bd590fc67ecbafc2b30313790de34769c33ee/Profile/countries/svg/ukraine.svg" width="15"/></a><b> Ukraine</b>.</p>
+I'm Paul, 18 year old student from <a href="https://en.wikipedia.org/wiki/Kharkiv" target="_blank"><img src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/c61bd590fc67ecbafc2b30313790de34769c33ee/Profile/countries/svg/ukraine.svg" width="15"/></a><b> Kharkiv, Ukraine</b>.</p>
 <p align="center">
     <a href="https://web.telegram.org/#/im?p=@paxanddos" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/Telegram_logo.svg" width="36"/></a>
     <a href="https://vk.com/paxanddos" target="_blank"><img src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/vk.svg" width="36"/></a>
