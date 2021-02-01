@@ -22,7 +22,7 @@
 </p>
 <p align="center">
     <a href="https://open.spotify.com/user/5iayic05kooeth409rhjfyptw">
-    <img src="https://spotify-natemoo.vercel.app/now-playing" width="300" alt="Now Playing">
+    <img src="https://spotify-natemoo.vercel.app/now-playing" width="500" alt="Now Playing">
     </a>
 </p>
 <p align="center">
