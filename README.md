@@ -42,5 +42,5 @@
     <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api/top-langs/?username=paxanddos&layout=compact&theme=buefy" />
 </p>
 <p align="center">
-    <a href="https://open.spotify.com/user/5iayic05kooeth409rhjfyptw"><img src="https://novatorem-paxanddos.vercel.app/api/spotify" alt="Now listening to" width="350" /></a>
-</p>
+    <!-- <a href="https://open.spotify.com/user/5iayic05kooeth409rhjfyptw"><img src="https://novatorem-paxanddos.vercel.app/api/spotify" alt="Now listening to" width="350" /></a>
+</p> -->
