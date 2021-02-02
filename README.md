@@ -38,8 +38,8 @@
     <img alt="js" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-flat&logo=javascript&logoColor=black" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api?username=paxanddos&show_icons=true&include_all_commits=true&theme=buefy" />
-    <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api/top-langs/?username=paxanddos&layout=compact&theme=buefy" />
+    <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api?username=paxanddos&show_icons=true&include_all_commits=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api/top-langs/?username=paxanddos&layout=compact&theme=tokyonight" />
 </p>
 <!-- <p align="center">
     <a href="https://open.spotify.com/user/5iayic05kooeth409rhjfyptw"><img src="https://novatorem-paxanddos.vercel.app/api/spotify" alt="Now listening to" width="350" /></a>
