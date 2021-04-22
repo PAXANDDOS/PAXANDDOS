@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://web.telegram.org/#/im?p=@paxanddos" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/Telegram_logo.svg" width="36"/></a>
     <a href="https://vk.com/paxanddos" target="_blank"><img src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/vk.svg" width="36"/></a>
-    <a href="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/main/Profile/social/discordtag.png" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/3cabda7e2065d345068cdbe55c4cba5cbbb40f23/Profile/social/discord.svg" width="36"/></a>
+    <a href="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/main/Profile/social/discordtag2.png" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/3cabda7e2065d345068cdbe55c4cba5cbbb40f23/Profile/social/discord.svg" width="36"/></a>
     <a href="https://steamcommunity.com/id/paxanddos/" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/Steam_icon_logo.svg" width="36"/></a>
     <a href="https://account.xbox.com/ru-ru/profile?gamertag=PAXANDDOS" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/xbox.svg" width="36"/></a>
     <a href="https://my.playstation.com/profile/PAXANDDOS" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/3cabda7e2065d345068cdbe55c4cba5cbbb40f23/Profile/social/playstation.svg" width="36"/></a><br>
@@ -26,16 +26,18 @@
     </a>
 </p>
 <p align="center">
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-flat&logo=html5&logoColor=white" />
+    <img alt="css" src="https://img.shields.io/badge/-CSS3-31A8FF?style=flat-flat&logo=css3&logoColor=white" />
+    <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" />
+    <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-flat&logo=react&logoColor=black" />
+    <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-flat&logo=php&logoColor=white" />
+    <img alt="sql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-flat&logo=mysql&logoColor=white" />    
     <img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=flat&logo=c&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-e87000?style=flat-flat&logo=java&logoColor=white" /> 
-    <img alt="csharp" src="https://img.shields.io/badge/-CSharp-6d0074?style=flat-flat&logo=c-sharp&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-flat&logo=git&logoColor=white" />
     <img alt="sdl" src="https://img.shields.io/badge/-SDL-103255?style=flat-flat&logo=sdl&logoColor=white" />
     <img alt="gtk3" src="https://img.shields.io/badge/-GTK+3.0-e50000?style=flat-flat&logo=gtk+&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-flat&logo=html5&logoColor=white" />
-    <img alt="css" src="https://img.shields.io/badge/-CSS3-3B90FF?style=flat-flat&logo=css3&logoColor=white" />
-    <img alt="js" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-flat&logo=javascript&logoColor=black" />
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api?username=paxanddos&show_icons=true&include_all_commits=true&theme=buefy" />
