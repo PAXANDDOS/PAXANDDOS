@@ -17,7 +17,7 @@
     <a href="http://instagram.com/paxanddos" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/3cabda7e2065d345068cdbe55c4cba5cbbb40f23/Profile/social/instagram.svg" width="36"/></a>
     <a href="https://www.youtube.com/channel/UCGYgeh073cBFOWAqhZa3iiQ" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/3cabda7e2065d345068cdbe55c4cba5cbbb40f23/Profile/social/youtube.svg" width="36"/></a>
     <a href="https://twitter.com/PAXANDDOS" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/3cabda7e2065d345068cdbe55c4cba5cbbb40f23/Profile/social/twitter.svg" width="36"/></a>
-    <a href="https://www.reddit.com/u/PAXANDDOS" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/3cabda7e2065d345068cdbe55c4cba5cbbb40f23/Profile/social/reddit.svg" width="36"/></a>
+    <a href="https://www.linkedin.com/in/paul-litovka-61a5941b6" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/e2620794cc5962a6a62fe2ca1a27ce21f195aa54/Profile/social/linkedin.svg" width="36"/></a>
     <a href="https://open.spotify.com/user/5iayic05kooeth409rhjfyptw" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/spotify.svg" width="36"/></a>
 </p>
 <p align="center">
