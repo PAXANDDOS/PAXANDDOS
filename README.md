@@ -30,14 +30,19 @@
     <img alt="css" src="https://img.shields.io/badge/-CSS3-31A8FF?style=flat-flat&logo=css3&logoColor=white" />
     <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" />
     <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-flat&logo=react&logoColor=black" />
+    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-flat&logo=redux&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-flat&logo=npm&logoColor=white" />
     <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-flat&logo=php&logoColor=white" />
-    <img alt="sql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-flat&logo=mysql&logoColor=white" />    
+    <img alt="laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-flat&logo=laravel&logoColor=white" />
+    <img alt="composer" src="https://img.shields.io/badge/-Composer-885630?style=flat-flat&logo=composer&logoColor=white" />
+    <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-flat&logo=mysql&logoColor=white" />
+    <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-flat&logo=mariadb&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=flat&logo=c&logoColor=white" />
+    <img alt="sdl" src="https://img.shields.io/badge/-SDL-103255?style=flat-flat&logo=sdl&logoColor=white" />
+    <img alt="gtk3" src="https://img.shields.io/badge/-GTK+3.0-e50000?style=flat-flat&logo=gtk+&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-e87000?style=flat-flat&logo=java&logoColor=white" /> 
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-flat&logo=git&logoColor=white" />
-    <img alt="sdl" src="https://img.shields.io/badge/-SDL-103255?style=flat-flat&logo=sdl&logoColor=white" />
-    <img alt="gtk3" src="https://img.shields.io/badge/-GTK+3.0-e50000?style=flat-flat&logo=gtk+&logoColor=white" />
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api?username=paxanddos&show_icons=true&include_all_commits=true&theme=buefy" />
