@@ -31,16 +31,16 @@
     <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" />
     <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-flat&logo=react&logoColor=black" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-flat&logo=redux&logoColor=white" /><br/>
-    <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-flat&logo=webpack&logoColor=black" /><br/>
+    <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-flat&logo=webpack&logoColor=black" />
     <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-flat&logo=npm&logoColor=white" />
     <img alt="json" src="https://img.shields.io/badge/-JSON-000000?style=flat-flat&logo=json&logoColor=white" />
     <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-flat&logo=php&logoColor=white" />
-    <img alt="laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-flat&logo=laravel&logoColor=white" />
+    <img alt="laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-flat&logo=laravel&logoColor=white" /><br/>
     <img alt="composer" src="https://img.shields.io/badge/-Composer-885630?style=flat-flat&logo=composer&logoColor=white" />
-    <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-flat&logo=mysql&logoColor=white" /><br/>
+    <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-flat&logo=mysql&logoColor=white" />
     <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-flat&logo=mariadb&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/C-blue.svg?style=flat&logo=c&logoColor=white" />
-    <img alt="sdl" src="https://img.shields.io/badge/-SDL-103255?style=flat-flat&logo=sdl&logoColor=white" />
+    <img alt="sdl" src="https://img.shields.io/badge/-SDL-103255?style=flat-flat&logo=sdl&logoColor=white" /><br/>
     <img alt="gtk3" src="https://img.shields.io/badge/-GTK+3.0-e50000?style=flat-flat&logo=gtk+&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-e87000?style=flat-flat&logo=java&logoColor=white" /> 
