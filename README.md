@@ -31,7 +31,9 @@
     <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" />
     <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-flat&logo=react&logoColor=black" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-flat&logo=redux&logoColor=white" /><br/>
+    <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-flat&logo=webpack&logoColor=black" /><br/>
     <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-flat&logo=npm&logoColor=white" />
+    <img alt="json" src="https://img.shields.io/badge/-JSON-000000?style=flat-flat&logo=json&logoColor=white" />
     <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-flat&logo=php&logoColor=white" />
     <img alt="laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-flat&logo=laravel&logoColor=white" />
     <img alt="composer" src="https://img.shields.io/badge/-Composer-885630?style=flat-flat&logo=composer&logoColor=white" />
