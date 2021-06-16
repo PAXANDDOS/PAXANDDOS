@@ -7,7 +7,7 @@
     <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/countries/united-kingdom.svg" width="15"/></a><b> English </b>— Advanced - Second main<br>
 </p>
 <p align="center">
-    <a href="https://web.telegram.org/#/im?p=@paxanddos" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/Telegram_logo.svg" width="36"/></a>
+    <a href="https://t.me/PAXANDDOS" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/Telegram_logo.svg" width="36"/></a>
     <a href="https://vk.com/paxanddos" target="_blank"><img src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/vk.svg" width="36"/></a>
     <a href="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/main/Profile/social/discordtag2.png" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/3cabda7e2065d345068cdbe55c4cba5cbbb40f23/Profile/social/discord.svg" width="36"/></a>
     <a href="https://steamcommunity.com/id/paxanddos/" target="_blank"><img                                           src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/27bf6323867e31e80d6414847d67a577b425dd21/Profile/social/Steam_icon_logo.svg" width="36"/></a>
